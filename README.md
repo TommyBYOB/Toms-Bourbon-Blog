@@ -1,2 +1,2 @@
 # Toms-CL-Project
-Bourbon Blog
+A simple blog about Bourbon

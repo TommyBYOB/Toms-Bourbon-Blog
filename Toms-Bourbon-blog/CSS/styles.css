@@ -1,0 +1,53 @@
+/*padding to drop heading below nav bar*/
+
+#whiskey,  #prohibition, #today {
+    padding-top: 56px;
+}
+
+/*Style the toast container*/
+
+.container  #btoast {
+    background-color: gold;
+    border: solid 2px black;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 2em;
+    color: black;       
+}
+
+/*style the toast*/
+
+.container #toast {
+  margin-top:  .5em; 
+  margin-bottom: 3.5px;
+  font-size: .75em;
+}
+
+/*style the footer*/
+
+.foot {
+    padding: .5em;
+    background-color: black;
+    margin-top: 2em; 
+    text-align: center;
+}     
+
+/*style the bourbon button instructions*/
+
+.bourbonbutton  {
+    text-align: center;
+    color: gold;
+    font-size: 1.5em;
+}
+
+/*style the button*/
+
+#bourbonButton {
+    background-color: lightcoral;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px lightgray;    
+}
+
+
+

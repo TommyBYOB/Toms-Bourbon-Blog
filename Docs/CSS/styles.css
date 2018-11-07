@@ -23,6 +23,10 @@
   font-size: .75em;
 }
 
+.caption {
+    margin-bottom: 2em;
+}
+
 /*style the footer*/
 
 .foot {
@@ -47,6 +51,12 @@
     border: 1px solid;
     padding: 10px;
     box-shadow: 5px 10px lightgray;    
+}
+.return {
+    color: white;
+    text-align: center;
+    margin-top: 2em;
+    
 }
 
 
